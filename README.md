@@ -29,6 +29,12 @@ I am building hands-on experience using Excel, SQL, Python, Power BI, and Google
 ### Data Cleaning using Python
 - Cleaned raw datasets
 - Visualized trends using charts
+  
+### ABC E-commerce Sales Dashboard
+- Built an interactive Power BI dashboard to analyze e-commerce sales data
+- Identified top products, revenue trends, and customer behavior
+- Tools: Power BI, Excel
+
 
 ---
 
