@@ -49,5 +49,4 @@ VAISHNAVI_resume.docx
 ---
 
 ## Contact
-- LinkedIn: (add later)
-- Email: (add later)
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-singh-1518bb324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
