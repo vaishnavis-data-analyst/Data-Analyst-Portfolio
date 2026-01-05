@@ -43,6 +43,7 @@ I am building hands-on experience using Excel, SQL, Python, Power BI, and Google
 ## Resume
 📄 Resume available in this repository
 view my resume 
+VAISHNAVI_resume.docx
 
 
 ---
