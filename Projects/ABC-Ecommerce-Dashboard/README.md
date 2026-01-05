@@ -27,3 +27,8 @@ This project focuses on analyzing sales data from an e-commerce business (ABC E-
 
 ## Outcome
 Created an interactive dashboard that helps stakeholders quickly understand business performance and make data-driven decisions.
+## Power BI File
+📊 [Download the Power BI Dashboard](./ABC_Ecommerce_Dashboard.pbix)
+
+*Note: Open using Microsoft Power BI Desktop*
+
