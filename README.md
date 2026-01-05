@@ -1,4 +1,4 @@
-# Vaishnavi | Data Analyst
+# Vaishnavi | Aspiring Data Analyst
 
 ## About Me
 I am an aspiring Data Analyst with a strong interest in analyzing data and extracting meaningful insights.
