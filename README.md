@@ -16,6 +16,12 @@ I am building hands-on experience using Excel, SQL, Python, Power BI, and Google
 ---
 
 ## Projects
+### ABC E-commerce Sales Dashboard (Power BI)
+- Designed an interactive Power BI dashboard to analyze e-commerce sales data
+- Tracked revenue, product performance, and monthly trends
+- Helped identify top categories and high-value customers
+- Tools: Power BI, Excel
+
 
 ### Sales Performance Analysis (Excel)
 - Analyzed monthly sales data
@@ -30,10 +36,6 @@ I am building hands-on experience using Excel, SQL, Python, Power BI, and Google
 - Cleaned raw datasets
 - Visualized trends using charts
   
-### ABC E-commerce Sales Dashboard
-- Built an interactive Power BI dashboard to analyze e-commerce sales data
-- Identified top products, revenue trends, and customer behavior
-- Tools: Power BI, Excel
 
 
 ---
