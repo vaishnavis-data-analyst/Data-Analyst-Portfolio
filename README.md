@@ -34,6 +34,8 @@ I am building hands-on experience using Excel, SQL, Python, Power BI, and Google
 
 ## Resume
 📄 Resume available in this repository
+https://github.com/yourusername/Data-Analyst-Portfolio/blob/main/Resume.pdf
+
 
 ---
 
